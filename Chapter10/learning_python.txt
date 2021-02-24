@@ -1,0 +1,3 @@
+In Python you can create a class that inherits from multiple other classes.
+In Python you can use classes and functions from modules.
+In Python you can read and write to a text file.
